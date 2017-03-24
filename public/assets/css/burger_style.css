@@ -54,20 +54,17 @@ ol{
 
 }
 
-.burger-name {
-	float: 	left;	
-
-}
 .devour-btn {
 	float: 	right;	
 
 }
-.rigth{
-	float: right;
-}
 .label {
   font-weight: bold;
  
+}
+
+.burger-item {
+	line-height: 2;
 }
 
 .create-update-form {
